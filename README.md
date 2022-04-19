@@ -15,9 +15,9 @@ Hello Microverse Project
 
 ## Authors
 
-👤 **Author1**
+👤 Henry V. Singbeh 
 
-- GitHub: [@githubhandle](https://github.com/henrycode460/Hello-World/)
+- GitHub: (https://github.com/henrycode460/Hello-World/)
 - 
 
 
